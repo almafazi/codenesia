@@ -11,7 +11,7 @@
     ================================================== -->
     <meta charset="utf-8">
     <title>Codenesia</title>
-    <link href='images/title.png' rel='shortcut icon'>
+    <link href='<?php echo base_url(); ?>assets/images/title.png' rel='shortcut icon'>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -21,14 +21,14 @@
 
     <!-- CSS
     ================================================== -->
-    <link rel="stylesheet" href="css/base.css">
-    <link rel="stylesheet" href="css/vendor.css">
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/base.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/vendor.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/main.css">
 
     <!-- script
     ================================================== -->
-    <script src="js/modernizr.js"></script>
-    <script src="js/pace.min.js"></script>
+    <script src="<?php echo base_url(); ?>assets/js/modernizr.js"></script>
+    <script src="<?php echo base_url(); ?>assets/js/pace.min.js"></script>
 
 </head>
 
@@ -39,8 +39,8 @@
     <header class="s-header">
 
         <div class="header-logo">
-            <a class="site-logo" href="index.html">
-                <img src="images/codenesia_logo.png" alt="Homepage">
+            <a class="site-logo" href="<?php echo base_url(); ?>">
+                <img src="<?php echo base_url(); ?>assets/images/codenesia_logo.png" alt="Homepage">
             </a>
         </div>
 
@@ -94,7 +94,7 @@
 
     <!-- home
     ================================================== -->
-    <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="images/rere.jpg" data-natural-width=3000 data-natural-height=2000 data-position-y=center>
+    <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="<?php echo base_url(); ?>assets/images/rere.jpg" data-natural-width=3000 data-natural-height=2000 data-position-y=center>
 
         <div class="overlay"></div>
         <div class="shadow-overlay"></div>
@@ -395,9 +395,9 @@
 
     <!-- Java Script
     ================================================== -->
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/main.js"></script>
+    <script src="<?php echo base_url(); ?>assets/js/jquery-3.2.1.min.js"></script>
+    <script src="<?php echo base_url(); ?>assets/js/plugins.js"></script>
+    <script src="<?php echo base_url(); ?>assets/js/main.js"></script>
 
 </body>
 
