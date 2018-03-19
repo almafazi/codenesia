@@ -266,9 +266,9 @@
                 </div>
                 <div class="service-text">
                     <h3 class="h2">Paket company profile / Business profile</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium.
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
+                    <p>Saat ini internet sudah digunakan oleh banyak orang,dan internet menjadi media informasi yang pertumbuhannya
+                      sangat cepat. Sudah selayaknya anda yang mempunyai usaha atau bisnis, mulai mempertimbangkan penggunaan
+                      internet sebagai media untuk mengembangkan bisnis anda. Kami akan membuat website yang mempresentaikan usaha ataupun bisnis anda.
                     </p>
                 </div>
             </div>
