@@ -532,10 +532,10 @@
                         Laudantium quia consequatur molestias delectus culpa facere hic dolores aperiam. Accusantium quos qui praesentium corpori.
                         Excepturi nam cupiditate culpa doloremque deleniti repellat.</p>
 
-                        <img src="<?php echo base_url(); ?>assets/images/avatars/user-01.jpg" alt="Author image" class="testimonials__avatar">
+                        <img src="<?php echo base_url(); ?>assets/images/faishal.jpg" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
-                            <span class="testimonials__name">Tim Cook</span>
-                            <span class="testimonials__pos">CEO, Apple</span>
+                            <span class="testimonials__name">Mochammad Faishal</span>
+                            <span class="testimonials__pos">Founder & CEO, Codenesia</span>
                         </div>
 
                     </div>
@@ -545,10 +545,10 @@
                         <p>Excepturi nam cupiditate culpa doloremque deleniti repellat. Veniam quos repellat voluptas animi adipisci.
                         Nisi eaque consequatur. Quasi voluptas eius distinctio. Atque eos maxime. Qui ipsam temporibus quisquam vel.</p>
 
-                        <img src="<?php echo base_url(); ?>assets/images/avatars/user-05.jpg" alt="Author image" class="testimonials__avatar">
+                        <img src="<?php echo base_url(); ?>assets/images/almafazi.jpg" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
-                            <span class="testimonials__name">Sundar Pichai</span>
-                            <span class="testimonials__pos">CEO, Google</span>
+                            <span class="testimonials__name">Almafazi</span>
+                            <span class="testimonials__pos">Co-Founder & Programmer, Codenesia</span>
                         </div>
 
                     </div>
@@ -561,7 +561,7 @@
                         <img src="<?php echo base_url(); ?>assets/images/avatars/user-02.jpg" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
                             <span class="testimonials__name">Satya Nadella</span>
-                            <span class="testimonials__pos">CEO, Microsoft</span>
+                            <span class="testimonials__pos">Co-Founder & CTO, Codenesia</span>
                         </div>
 
                     </div>
