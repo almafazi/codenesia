@@ -1,2 +1,0 @@
-# codenesia
-Source code codenesia.
