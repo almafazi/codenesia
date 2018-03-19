@@ -310,9 +310,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-shutterbug.jpg" class="thumb-link" title="Shutterbug" data-size="1050x700">
-                                    <img src="images/portfolio/lady-shutterbug.jpg"
-                                         srcset="images/portfolio/lady-shutterbug.jpg 1x, images/portfolio/lady-shutterbug@2x.jpg 2x" alt="">
+                                <a href="<?php echo base_url(); ?>assets/images/portfolio/gallery/g-shutterbug.jpg" class="thumb-link" title="Shutterbug" data-size="1050x700">
+                                    <img src="<?php echo base_url(); ?>assets/images/portfolio/lady-shutterbug.jpg"
+                                         srcset="i<?php echo base_url(); ?>assets/mages/portfolio/lady-shutterbug.jpg 1x, images/portfolio/lady-shutterbug@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
@@ -340,9 +340,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-woodcraft.jpg" class="thumb-link" title="Woodcraft" data-size="1050x700">
-                                    <img src="images/portfolio/woodcraft.jpg"
-                                         srcset="images/portfolio/woodcraft.jpg 1x, images/portfolio/woodcraft@2x.jpg 2x" alt="">
+                                <a href="<?php echo base_url(); ?>assets/images/portfolio/gallery/g-woodcraft.jpg" class="thumb-link" title="Woodcraft" data-size="1050x700">
+                                    <img src="<?php echo base_url(); ?>assets/images/portfolio/woodcraft.jpg"
+                                         srcset="<?php echo base_url(); ?>assets/images/portfolio/woodcraft.jpg 1x, <?php echo base_url(); ?>assets/images/portfolio/woodcraft@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
@@ -370,9 +370,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-beetle.jpg" class="thumb-link" title="The Beetle Car" data-size="1050x700">
-                                    <img src="images/portfolio/the-beetle.jpg"
-                                         srcset="images/portfolio/the-beetle.jpg 1x, images/portfolio/the-beetle@2x.jpg 2x" alt="">
+                                <a href="<?php echo base_url(); ?>assets/images/portfolio/gallery/g-beetle.jpg" class="thumb-link" title="The Beetle Car" data-size="1050x700">
+                                    <img src="<?php echo base_url(); ?>assets/images/portfolio/the-beetle.jpg"
+                                         srcset="<?php echo base_url(); ?>assets/images/portfolio/the-beetle.jpg 1x, <?php echo base_url(); ?>assets/images/portfolio/the-beetle@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
@@ -400,9 +400,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-grow-green.jpg" class="thumb-link" title="Grow Green" data-size="1050x700">
-                                    <img src="images/portfolio/grow-green.jpg"
-                                         srcset="images/portfolio/grow-green.jpg 1x, images/portfolio/grow-green@2x.jpg 2x" alt="">
+                                <a href="<?php echo base_url(); ?>assets/images/portfolio/gallery/g-grow-green.jpg" class="thumb-link" title="Grow Green" data-size="1050x700">
+                                    <img src="<?php echo base_url(); ?>assets/images/portfolio/grow-green.jpg"
+                                         srcset="<?php echo base_url(); ?>assets/images/portfolio/grow-green.jpg 1x, <?php echo base_url(); ?>assets/images/portfolio/grow-green@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
@@ -430,9 +430,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-guitarist.jpg" class="thumb-link" title="Guitarist" data-size="1050x700">
-                                    <img src="images/portfolio/guitarist.jpg"
-                                         srcset="images/portfolio/guitarist.jpg 1x, images/portfolio/guitarist@2x.jpg 2x" alt="">
+                                <a href="<?php echo base_url(); ?>assets/images/portfolio/gallery/g-guitarist.jpg" class="thumb-link" title="Guitarist" data-size="1050x700">
+                                    <img src="<?php echo base_url(); ?>assets/images/portfolio/guitarist.jpg"
+                                         srcset="<?php echo base_url(); ?>assets/images/portfolio/guitarist.jpg 1x, <?php echo base_url(); ?>assets/images/portfolio/guitarist@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
@@ -460,9 +460,9 @@
                         <div class="item-folio">
 
                             <div class="item-folio__thumb">
-                                <a href="images/portfolio/gallery/g-palmeira.jpg" class="thumb-link" title="Palmeira" data-size="1050x700">
-                                    <img src="images/portfolio/palmeira.jpg"
-                                         srcset="images/portfolio/palmeira.jpg 1x, images/portfolio/palmeira@2x.jpg 2x" alt="">
+                                <a href="<?php echo base_url(); ?>assets/images/portfolio/gallery/g-palmeira.jpg" class="thumb-link" title="Palmeira" data-size="1050x700">
+                                    <img src="<?php echo base_url(); ?>assets/images/portfolio/palmeira.jpg"
+                                         srcset="<?php echo base_url(); ?>assets/images/portfolio/palmeira.jpg 1x, images/portfolio/palmeira@2x.jpg 2x" alt="">
                                 </a>
                             </div>
 
@@ -509,14 +509,14 @@
             <div class="col-full">
                 <div class="clients">
 
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/apple.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/atom.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/blackberry.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/dropbox.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/envato.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/firefox.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/joomla.png" /></a>
-                    <a href="#0" title="" class="clients__slide"><img src="images/clients/magento.png" /></a>
+                    <a href="#0" title="" class="clients__slide"><img src="<?php echo base_url(); ?>assets/images/clients/apple.png" /></a>
+                    <a href="#0" title="" class="clients__slide"><img src="<?php echo base_url(); ?>assets/images/clients/atom.png" /></a>
+                    <a href="#0" title="" class="clients__slide"><img src="<?php echo base_url(); ?>assets/images/clients/blackberry.png" /></a>
+                    <a href="#0" title="" class="clients__slide"><img src="<?php echo base_url(); ?>assets/images/clients/dropbox.png" /></a>
+                    <a href="#0" title="" class="clients__slide"><img src="<?php echo base_url(); ?>assets/images/clients/envato.png" /></a>
+                    <a href="#0" title="" class="clients__slide"><img src="<?php echo base_url(); ?>assets/images/clients/firefox.png" /></a>
+                    <a href="#0" title="" class="clients__slide"><img src="<?php echo base_url(); ?>assets/images/clients/joomla.png" /></a>
+                    <a href="#0" title="" class="clients__slide"><img src="<?php echo base_url(); ?>assets/images/clients/magento.png" /></a>
 
                 </div> <!-- end clients -->
             </div> <!-- end col-full -->
@@ -532,7 +532,7 @@
                         Laudantium quia consequatur molestias delectus culpa facere hic dolores aperiam. Accusantium quos qui praesentium corpori.
                         Excepturi nam cupiditate culpa doloremque deleniti repellat.</p>
 
-                        <img src="images/avatars/user-01.jpg" alt="Author image" class="testimonials__avatar">
+                        <img src="<?php echo base_url(); ?>assets/images/avatars/user-01.jpg" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
                             <span class="testimonials__name">Tim Cook</span>
                             <span class="testimonials__pos">CEO, Apple</span>
@@ -545,7 +545,7 @@
                         <p>Excepturi nam cupiditate culpa doloremque deleniti repellat. Veniam quos repellat voluptas animi adipisci.
                         Nisi eaque consequatur. Quasi voluptas eius distinctio. Atque eos maxime. Qui ipsam temporibus quisquam vel.</p>
 
-                        <img src="images/avatars/user-05.jpg" alt="Author image" class="testimonials__avatar">
+                        <img src="<?php echo base_url(); ?>assets/images/avatars/user-05.jpg" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
                             <span class="testimonials__name">Sundar Pichai</span>
                             <span class="testimonials__pos">CEO, Google</span>
@@ -558,7 +558,7 @@
                         <p>Repellat dignissimos libero. Qui sed at corrupti expedita voluptas odit. Nihil ea quia nesciunt. Ducimus aut sed ipsam.
                         Autem eaque officia cum exercitationem sunt voluptatum accusamus. Quasi voluptas eius distinctio.</p>
 
-                        <img src="images/avatars/user-02.jpg" alt="Author image" class="testimonials__avatar">
+                        <img src="<?php echo base_url(); ?>assets/images/avatars/user-02.jpg" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
                             <span class="testimonials__name">Satya Nadella</span>
                             <span class="testimonials__pos">CEO, Microsoft</span>
