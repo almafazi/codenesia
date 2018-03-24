@@ -558,9 +558,9 @@
                         <p>Repellat dignissimos libero. Qui sed at corrupti expedita voluptas odit. Nihil ea quia nesciunt. Ducimus aut sed ipsam.
                         Autem eaque officia cum exercitationem sunt voluptatum accusamus. Quasi voluptas eius distinctio.</p>
 
-                        <img src="<?php echo base_url(); ?>assets/images/avatars/user-02.jpg" alt="Author image" class="testimonials__avatar">
+                        <img src="<?php echo base_url(); ?>assets/images/soleh.jpg" alt="Author image" class="testimonials__avatar">
                         <div class="testimonials__info">
-                            <span class="testimonials__name">Satya Nadella</span>
+                            <span class="testimonials__name">Syihabudin Sholeh</span>
                             <span class="testimonials__pos">Co-Founder & CTO, Codenesia</span>
                         </div>
 
